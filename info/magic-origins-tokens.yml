@@ -1,0 +1,16 @@
+---
+object: set
+id: cfc3f929-420a-4236-8d06-8e227cfb6933
+code: tori
+name: Magic Origins Tokens
+uri: https://api.scryfall.com/sets/cfc3f929-420a-4236-8d06-8e227cfb6933
+scryfall_uri: https://scryfall.com/sets/tori
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atori&unique=prints
+released_at: '2015-07-17'
+set_type: token
+card_count: 15
+parent_set_code: ori
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ori.svg?1694404800

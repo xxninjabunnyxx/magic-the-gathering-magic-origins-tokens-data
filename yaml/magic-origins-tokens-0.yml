@@ -1,0 +1,104 @@
+---
+object: card
+id: f3dcc7b5-c911-44c9-be5a-087298ddb492
+oracle_id: 516a074e-29d7-4599-a057-f90d88ad0c8f
+multiverse_ids: []
+tcgplayer_id: 100022
+name: Magic Origins Checklist
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/f3dcc7b5-c911-44c9-be5a-087298ddb492
+scryfall_uri: https://scryfall.com/card/tori/0/magic-origins-checklist?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.jpg?1562640128
+  normal: https://cards.scryfall.io/normal/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.jpg?1562640128
+  large: https://cards.scryfall.io/large/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.jpg?1562640128
+  png: https://cards.scryfall.io/png/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.png?1562640128
+  art_crop: https://cards.scryfall.io/art_crop/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.jpg?1562640128
+  border_crop: https://cards.scryfall.io/border_crop/front/f/3/f3dcc7b5-c911-44c9-be5a-087298ddb492.jpg?1562640128
+mana_cost: ''
+cmc: 0.0
+type_line: Card
+oracle_text: |-
+  (You can mark this card to represent a double-faced Planeswalker card in your library or hand.)
+  ☐ Kytheon, Hero of Akros {W}
+  ☐ Jace, Vryn's Prodigy {1}{U}
+  ☐ Liliana, Heretical Healer {1}{B}{B}
+  ☐ Chandra, Fire of Kaladesh {1}{R}{R}
+  ☐ Nissa, Vastwood Seer {2}{G}
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cfc3f929-420a-4236-8d06-8e227cfb6933
+set: tori
+set_name: Magic Origins Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/cfc3f929-420a-4236-8d06-8e227cfb6933
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f3dcc7b5-c911-44c9-be5a-087298ddb492/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A516a074e-29d7-4599-a057-f90d88ad0c8f&unique=prints
+collector_number: '0'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: ''
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.17'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Magic+Origins+Checklist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Magic+Origins+Checklist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Magic+Origins+Checklist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100022?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Magic+Origins+Checklist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Magic+Origins+Checklist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
